@@ -15,14 +15,14 @@ import {getAuth} from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCK1oMMzyfCp4tK2R7rGKIq5meVzjEnTqk",
-    authDomain: "airbnb-4384f.firebaseapp.com",
-    projectId: "airbnb-4384f",
-    storageBucket: "airbnb-4384f.appspot.com",
-    messagingSenderId: "194923954090",
-    appId: "1:194923954090:web:929331bacac42d4515b5d3",
-    measurementId: "G-P4MVNSS8H3"
-};
+    apiKey: 'AIzaSyDSP-uPfjsK1HyyIZu7bggsRRowAdtaUpg',
+    authDomain: "eventwave-ar.firebaseapp.com",
+    projectId: "eventwave-ar",
+    storageBucket: "eventwave-ar.appspot.com",
+    messagingSenderId: "757346690931",
+    appId: "1:757346690931:web:caecc58aa042b491b94706",
+    measurementId: "G-2QKZHDXHJC"
+  };
 
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
